@@ -28,16 +28,12 @@
 
 **Ferramentas de desenvolvimento**
 <br>
-
 ![VS CODE](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 <br>
 
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/gimelow" title="Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimlow&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
