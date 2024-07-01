@@ -38,4 +38,4 @@
 </a>
 
 ## Onde me encontrar
- <a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+ <a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/gimelow#" alt="LinkedIn"/></a>
