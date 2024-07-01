@@ -15,17 +15,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-
+<br>
 
 **DevOps e Infra**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<br>
 
 
 **Ferramentas de desenvolvimento**
-https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge
+![VS CODE](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+<br>
 
 
 <br/>
