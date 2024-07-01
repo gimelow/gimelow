@@ -5,19 +5,17 @@
 - 🎓 Análise e Desenvolvimento de Sistemas | FATEC
 - 🎓 Engenharia da Computação | Uniamerica
 - 💼 Trabalhando como Estágiaria de Desenvolvimento de Sistemas no Porto de Santos.
-- 🌱 Aprendendo mais sobre C#/.NET, ANGULAR, AZURE.
+- 🌱 Aprendendo mais sobre C#, .NET, JS, ANGULAR, AZURE, ORACLE DB.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C#](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![ANGULAR](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![AZURE](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![ORACLE](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
 
