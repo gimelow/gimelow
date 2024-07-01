@@ -23,7 +23,6 @@
 <br>
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
