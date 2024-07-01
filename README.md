@@ -40,5 +40,6 @@
 ## Onde me encontrar
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gio.s.melo@outlook.com)](mailto:gio.s.melo@outlook.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)](https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/gimelow/)](https://github.com/gimelow/)
 
 
