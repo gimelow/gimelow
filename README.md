@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gimlow&color=006bed)
+![](https://komarev.com/ghpvc/?username=gimelow&color=006bed)
 
 ## Sobre mim
 
