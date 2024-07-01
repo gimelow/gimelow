@@ -42,6 +42,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)](https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)
-[![Gmail Badge](https://img.shields.io/badge/-gio.s.melo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gio.s.melo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Giovanna-Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)](https://www.linkedin.com/in/giovanna-da-silva-melo-40112922a/)
+[![Gmail Badge](https://img.shields.io/badge/-gio.s.melo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gio.s.melo@gmail.com)](mailto:gio.s.melo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/gimelow?label=follow&style=social)](https://github.com/gimelow)
