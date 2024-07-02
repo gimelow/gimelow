@@ -37,7 +37,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gimelow&theme=midnight-purple&show_icons=true" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimelow&theme=midnight-purple&&layout=compact)
 
 ## Onde me encontrar
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:gio.s.melo@outlook.com)](mailto:gio.s.melo@outlook.com)
