@@ -3,7 +3,6 @@
 ## Sobre mim
 
 - 🎓 Análise e Desenvolvimento de Sistemas | FATEC
-- 🎓 Engenharia da Computação | Uniamerica
 - 👩🏻‍💻 Técnica em Informática
 - 💼 Trabalhando como Estágiaria de Desenvolvimento de Sistemas no Porto de Santos
 - 🌱 Aprendendo mais sobre C#, .NET, JS, ANGULAR, AZURE, ORACLE DB
