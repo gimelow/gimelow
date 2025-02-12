@@ -5,7 +5,6 @@
 - 🎓 Análise e Desenvolvimento de Sistemas | FATEC
 - 👩🏻‍💻 Técnica em Informática
 - 💼 Trabalhando como Estágiaria de Desenvolvimento de Sistemas no Porto de Santos
-- 🌱 Aprendendo mais sobre C#, .NET, JS, ANGULAR, AZURE, ORACLE DB
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Minhas Skills
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
