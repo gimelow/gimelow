@@ -7,17 +7,20 @@
 - 💼 Trabalhando como Desenvolvimento de Sistemas Pleno no Porto de Santos
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Minhas Skills
-![LARAVEL#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=for-the-badge)
 <br>
 
 **Ferramentas de desenvolvimento**
 <br>
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 <br>
 
