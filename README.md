@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🎓 Análise e Desenvolvimento de Sistemas | FATEC
+- 💼 Desenvolvedora de Sistemas Pleno no Porto de Santos | MSB TECNOLOGIA
 - 👩🏻‍💻 Técnica em Informática
-- 💼 Trabalhando como Desenvolvimento de Sistemas Pleno no Porto de Santos
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Minhas Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
